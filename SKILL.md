@@ -3,34 +3,34 @@ name: github-to-x-posts
 description: Discover and verify GitHub projects with broad consumer appeal, then write and arrange Chinese X posts for content growth. Use when selecting a GitHub project or preparing a short X post about one; not for developer release notes or long X Articles.
 ---
 
-# GitHub → X 内容选题与帖文编排
+# GitHub to X: Research and Post Planning
 
-目标：从 GitHub 找到普通人愿意点开、保存或转发的工具，将真实可用的场景写成有传播力的中文 X 帖。交付到文案和媒介编排；不承诺每条都爆。默认由账号主人检查并点击发布，除非其另有明确授权。
+Find GitHub projects that everyday users would want to try, turn a verified use case into a compelling Chinese-language X post, and deliver the copy and media plan. Aim for credible reach without promising virality. Unless explicitly authorized otherwise, leave the final click on **Post** to the account owner.
 
-## 1. 先找用户结果，再找仓库
+## 1. Start with the user's outcome
 
-- 从“谁现在要完成什么事、能用工具做出什么结果”出发。视频制作与剪辑优先；其次是图片、设计、音频、文件处理等大众任务。开发者工具只有在普通人也能一眼看懂并直接受益时才进入候选。
-- 优先选几秒内能展示结果的项目：前后对比、成品、短视频或 GIF。看使用门槛、结果强度和受众广度；GitHub 星数只是兴趣信号，不是选题理由。
-- 对比候选的可视化结果、上手难度、证据、X 上的新鲜度与时机。问清楚“为什么有人会停下来？”以及“为什么他会收藏或发给朋友？”挑最强的一项；没有合格选题就如实说明，不硬发。
+- Ask who needs this and what they could make or finish with it. Prioritize video creation and editing, followed by design, images, audio, file handling, and other broadly useful tasks. Consider a developer tool only when a nondeveloper can immediately understand and benefit from its result.
+- Favor projects whose output is clear within a few seconds: a finished artifact, before-and-after comparison, short video, or GIF. Weigh the path to that result, the size of the potential audience, and how easily a viewer can try it. Stars show interest; they are not a reason to pick a project on their own.
+- Compare plausible candidates on visual impact, audience breadth, ease of use, evidence, freshness on X, and timing. Ask: Why would someone stop scrolling? Why would they save or share this? Pick the strongest candidate. If none passes, say so rather than forcing a post.
 
-## 2. 核实能不能用，以及角度是否新鲜
+## 2. Verify the product and the angle
 
-- 查仓库、文档、演示和实际入口；确认系统要求、注册、收费、导出、水印和关键限制。可行时亲自走完核心任务并检查成品。把亲测结果与作者说明分开记录。
-- 搜 X 上同项目和同类结果的帖子，必要时覆盖中外文。若同画面、同卖点已密集出现，寻找更贴近普通人的使用场景；搜索不完整，不能断言“从没人发过”。
-- 若使用“高星”或“暴涨”等说法，核对星数、日期和历史数据。没有证据，不把 GitHub 增长归因于某条 X 帖。
-- 优先使用自己的真实录屏或截图；复用作者素材前确认可复用，署名不等于授权。作者演示必须标明来源，不能写成自己亲测。核心利益点无法验证时，说明不确定性，不能把推测包装成事实。
-- 时效性产品信息与 X 规则以当前来源为准。存在赞助、赠品、联盟返佣或品牌合作时，先核对披露要求。不要承诺链接不会影响推荐，也不要保证曝光。
+- Inspect the repository, documentation, demo, and live entry point. Check platform requirements, signup, pricing, export restrictions, watermarks, and material limitations. When practical, complete the core task yourself and inspect the finished output. Record what you observed separately from what the maintainer says.
+- Search X for the project and similar outcomes, in Chinese and other languages when relevant. If the same footage and claim are already common, look for a more useful everyday scenario. Search is incomplete; do not claim that nobody has posted it.
+- If the post calls a project “high-star” or claims rapid growth, verify the count, date, and historical trend. Do not attribute GitHub growth to a particular X post without evidence.
+- Prefer your own real captures. Before reusing a maintainer's media, check that reuse is permitted; attribution is not a substitute for permission. Label a maintainer demo as such, never as firsthand testing. If the central benefit cannot be verified, make the uncertainty explicit and do not turn a guess into a claim.
+- Recheck time-sensitive product details and X rules against current sources. If the post involves payment, gifted access, an affiliate arrangement, or a brand relationship, verify the applicable disclosure requirements. Do not promise that links are penalty-free or that a post will receive distribution.
 
-## 3. 从读者要完成的事写文案
+## 3. Write for the reader's task
 
-- 用符合账号语气的高情绪、口语化开场抓注意力，并轮换表达；例如“这工具有点离谱！”只是示意，不要机械复用。
-- 接着写一个熟悉的使用时刻，以及读者能做出的成品或省掉的麻烦。先讲“能拿它做什么”，再提产品名或必要步骤。每帖只突出一个核心收益；删掉功能清单、开发术语和没有证据的夸张数字。
-- 用最少的可信证据支撑承诺：亲测了什么、作者演示了什么、有什么重要限制。附上可用入口；让读者一看就知道下一步怎么试。
-- 首个画面尽快展示结果。为素材标注来源并写有用的 ALT；在可用的 X 编辑器里检查字数、换行、媒体和移动端预览。
-- 选题核实与成稿检查使用[工作表](references/run-sheet.md)。它是记录框架，不是需要照抄的文案模板。
+- Open with an energetic, conversational Chinese hook suited to the account's voice. Vary the wording across posts instead of repeating one catchphrase.
+- Follow with a recognizable moment of need and the result the reader can get. Lead with what they can *do*, then name the product or explain the minimum steps. Give each post one central benefit; remove feature inventories, developer jargon, and unsupported numbers.
+- Support the promise with only the proof it needs: what you tested, what the maintainer's demo shows, and any important caveat. Keep first-person observations separate from source claims. Provide a working path to try the tool.
+- Put the strongest truthful result at the start of the media. Credit borrowed material, write useful ALT text, and check character count, line breaks, media, and mobile preview in the X composer when available.
+- Use the [candidate and draft worksheet](references/run-sheet.md) to track evidence and handoff details. It is a decision aid, not copy to paste into every post.
 
-## 4. 输出可发布的帖文编排
+## 4. Deliver a publication-ready draft
 
-- 交付最终中文文案（含换行与链接顺序）、建议媒体及顺序、素材来源、ALT、选题理由、已核实事实与限制；把推断明确标为推断。
-- 获得授权后可将文字、媒体、署名、ALT 和链接排入 X 编辑器，停在发布按钮前供账号主人检查。如果无法直接排入编辑器，就交付可复制的精确文案和素材清单。
-- 交付后清理本次研究创建的标签页、下载和临时文件；保留用户需要检查的草稿与成品。
+- Provide the exact Chinese copy, including line breaks and link order; suggested media and order; source and attribution; ALT text; why this angle is worth posting; verified facts; and relevant limitations. Label inferences as inferences.
+- If authorized to stage the draft, arrange the text, media, attribution, ALT, and links in the X composer. Stop before **Post** for the account owner's review. If staging is unavailable, hand over exact copy and a usable media list.
+- Clean up task-owned research tabs, downloads, and temporary files after the handoff. Keep the reviewable draft and intended deliverables available.

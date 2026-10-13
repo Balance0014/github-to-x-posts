@@ -1,31 +1,31 @@
-# 选题与成稿工作表
+# Candidate and Draft Worksheet
 
-每个候选项目记录一份。事实旁保留来源链接，方便核实文案。表格按任务裁剪，不必每次填满。
+Keep one short record per candidate. Put source links beside the claims they support. Use only the fields that matter for the current assignment.
 
-## 候选检查
+## Candidate check
 
-| 项目 | 记录 |
+| Field | Notes |
 | --- | --- |
-| 日期；项目；仓库；实际使用入口 | |
-| 普通人的具体场景与目标成品 | |
-| 类别；受众；为什么几秒内看得懂 | |
-| 演示画面；素材来源与复用依据 | |
-| 亲测输入、步骤、成品和限制；或明确“未亲测” | |
-| 注册、收费、平台、导出、水印及来源 | |
-| 当前星数与日期；仅在文案需要时记录 | |
-| X 同类帖子：中文和其他语言、时间、重复程度、可区别的角度 | |
-| 证据缺口或淘汰原因 | |
-| 结论：选用 / 暂缓 / 淘汰；理由 | |
+| Date, project, repository, and live entry point | |
+| The everyday user's situation and desired finished result | |
+| Category, likely audience, and why the outcome is clear in seconds | |
+| What the media shows, its source, and the basis for reuse | |
+| Firsthand trial: input, steps, output, and limits; or explicitly “not tested” | |
+| Signup, price, platform, export, and watermark facts, with sources | |
+| Current stars and date, only if the angle needs them | |
+| Similar X posts: language, date, repetition, and a distinct useful angle | |
+| Evidence gaps or reasons to pass | |
+| Decision: select, hold, or reject, with a reason | |
 
-核心结果不清楚、难以使用、容易误导，或同质内容已经密集而无新角度时，暂缓或淘汰。低星但对普通人更有用的项目可以胜出。
+Hold or reject a project when its central user benefit is unclear, inaccessible, misleading, or already overexposed without a new angle. A lower-star project can be the stronger post when it serves everyday users better.
 
-## 文案与编排
+## Copy and media handoff
 
-1. **开头钩子：** 有情绪、有画面，符合账号语气，避免反复使用同一句。
-2. **场景 → 成品：** 普通人今天能用它完成什么，先于功能描述。
-3. **证据：** 亲测或明确标注的作者演示；必要时说明限制。
-4. **行动：** 可用入口；仓库和来源链接按需要附上。
-5. **媒体：** 最有说服力的真实结果放前面；标来源、写 ALT、看移动端效果。
-6. **交付：** 最终文案、换行、链接顺序、媒体顺序、ALT、素材与证据链接。
+1. **Opening:** Energetic and specific to the account; avoid a repeated stock phrase.
+2. **Situation → result:** State what someone can finish today before listing features.
+3. **Proof:** Distinguish firsthand testing from a clearly credited maintainer demo; mention a material limit when needed.
+4. **Action:** Include a working product entry point and repository or source link when useful.
+5. **Media:** Lead with the strongest truthful result; check attribution, ALT text, and mobile presentation.
+6. **Final handoff:** Exact post copy, line breaks, link order, media order, ALT text, and evidence links.
 
-交付前检查账号实际字数限制、链接、画面前几秒及每一项事实。如果含赞助或返佣关系，核对当前 X 规则并做适当披露。获得编排授权时，将草稿排入编辑器，发布按钮留给账号主人。
+Before handoff, check the account's actual character limit, link destinations, the media's opening seconds, and every factual claim. For sponsored or affiliate posts, verify current X disclosure rules and disclose the relationship. Stage the draft only when authorized, and leave the final click to the account owner.
