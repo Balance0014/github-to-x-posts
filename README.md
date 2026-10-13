@@ -1,5 +1,7 @@
 # GitHub to X Posts
 
+![GitHub to X Posts social preview](assets/social-preview.png)
+
 A Codex skill for turning useful GitHub discoveries into Chinese-language X posts that people outside developer circles can understand. It finds a promising project, verifies what someone can actually do with it, checks whether the same angle is already everywhere on X, and delivers a ready-to-use post with a media plan.
 
 This is a content research and writing workflow for creators who want more reach. It improves the odds of finding a compelling, credible story; it does not promise a viral post. **The instructions are in English, but the default post output is in Chinese.**
