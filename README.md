@@ -28,10 +28,10 @@ Start a new chat after installation. If Codex does not recognize the skill, rest
 **3. Run your first search.** Copy this prompt and adjust the category if needed:
 
 ```text
-Use $github-to-x-posts to find a GitHub tool worth posting about on Chinese X today. Prioritize video creation or editing for everyday users. Verify that the core use case works, note any costs or limits, and check whether the same angle has already been posted on X. Pick the strongest candidate and give me a ready-to-paste Chinese post, media order, ALT text, links, and the evidence behind each claim. I will click Post myself.
+Use $github-to-x-posts to find a GitHub tool worth posting about on Chinese X today. Prioritize video creation or editing for everyday users. Verify that the core use case works, note any costs or limits, and check whether the same angle has already been posted on X. Pick the strongest candidate and give me a ready-to-paste Chinese main post with a reusable demo video, plus a separate first-reply GitHub link, media credits, and the evidence behind each claim. I will click Post and add the reply myself.
 ```
 
-You should receive one recommended project and the reason it was chosen, a clear distinction between firsthand testing and source claims, the finished post, a media and ALT plan, working links, and any important caveats. If no candidate passes the checks, the skill should say so instead of inventing one.
+You should receive one recommended project and the reason it was chosen, a clear distinction between firsthand testing and source claims, the finished main post and first reply, a media and ALT plan, working links, and any important caveats. If no candidate passes the checks, the skill should say so instead of inventing one.
 
 ## How the workflow works
 
@@ -39,7 +39,7 @@ You should receive one recommended project and the reason it was chosen, a clear
 2. Check the project, the live product, and the path from input to finished output. Test it when practical.
 3. Search X for competing posts and look for a distinct, useful angle.
 4. Write around the reader's situation and outcome: a strong opening, one clear benefit, and only the proof the claim needs.
-5. Deliver the exact post copy, line breaks, link order, media order, attribution, and ALT text. With permission, arrange the draft in X and leave publication to the account owner.
+5. Lead the main post with a usable demo video when its reuse basis is clear. Provide the GitHub link as a separate first reply by default, with exact copy, attribution, and ALT text. With permission, arrange the main post in X and leave publication and the reply to the account owner.
 
 The operating instructions are in [SKILL.md](SKILL.md). Use the [candidate and draft worksheet](references/run-sheet.md) to keep evidence close to the claims it supports.
 

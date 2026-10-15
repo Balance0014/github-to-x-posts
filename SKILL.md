@@ -27,10 +27,11 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Follow with a recognizable moment of need and the result the reader can get. Lead with what they can *do*, then name the product or explain the minimum steps. Give each post one central benefit; remove feature inventories, developer jargon, and unsupported numbers.
 - Support the promise with only the proof it needs: what you tested, what the maintainer's demo shows, and any important caveat. Keep first-person observations separate from source claims. Provide a working path to try the tool.
 - Put the strongest truthful result at the start of the media. Credit borrowed material, write useful ALT text, and check character count, line breaks, media, and mobile preview in the X composer when available.
+- For this video-first short-post format, prefer a native, immediately understandable demo in the main post when its reuse basis is clear. By default, keep the GitHub URL out of the main post: end with a natural “传送门放评论区” cue and hand the owner an exact first-reply link to post manually. Follow a different link placement when the user requests one. If the available sample cannot be reused, find an authorized alternative or state the gap.
 - Use the [candidate and draft worksheet](references/run-sheet.md) to track evidence and handoff details. It is a decision aid, not copy to paste into every post.
 
 ## 4. Deliver a publication-ready draft
 
-- Provide the exact Chinese copy, including line breaks and link order; suggested media and order; source and attribution; ALT text; why this angle is worth posting; verified facts; and relevant limitations. Label inferences as inferences.
+- Provide the exact Chinese main-post copy and separate first-reply link text, including line breaks; suggested media and order; source and attribution; ALT text; why this angle is worth posting; verified facts; and relevant limitations. Label inferences as inferences.
 - If authorized to stage the draft, arrange the text, media, attribution, ALT, and links in the X composer. Stop before **Post** for the account owner's review. If staging is unavailable, hand over exact copy and a usable media list.
 - Clean up task-owned research tabs, downloads, and temporary files after the handoff. Keep the reviewable draft and intended deliverables available.
