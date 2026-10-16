@@ -25,7 +25,7 @@ Hold or reject a project when its central user benefit is unclear, inaccessible,
 2. **Situation → result:** State what someone can finish today before listing features.
 3. **Proof:** Distinguish firsthand testing from a clearly credited maintainer demo; mention a material limit when needed.
 4. **Action:** By default, put “传送门放评论区” in the main post and give the owner the exact GitHub URL for a manual first reply; adapt if the user chooses another placement.
-5. **Media:** Lead with the strongest truthful result; check attribution, ALT text, and mobile presentation.
-6. **Final handoff:** Exact main-post and first-reply copy, line breaks, media order, attribution, ALT text, and evidence links.
+5. **Media:** Prefer an authorized, original ready-to-upload demo. Record its direct URL or verified Desktop path, attribution, and an ALT suggestion. Avoid media edits and uploads unless requested.
+6. **Final handoff:** Exact main-post copy, separate first-reply URL, video location, attribution, key evidence, and material limits.
 
-Before handoff, check the account's actual character limit, link destinations, the media's opening seconds, and every factual claim. For sponsored or affiliate posts, verify current X disclosure rules and disclose the relationship. Stage the draft only when authorized, and leave the final click to the account owner.
+Before handoff, check link destinations, the media's opening seconds, and every factual claim. When an external X browser is available, place only the main-post text there and check line breaks and the account's character limit. Never use the Codex in-app browser for this skill. The owner uploads media, posts, and adds the reply. For sponsored or affiliate posts, verify current X disclosure rules and disclose the relationship.

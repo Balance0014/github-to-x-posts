@@ -1,11 +1,11 @@
 ---
 name: github-to-x-posts
-description: Discover and verify GitHub projects with broad consumer appeal, then write and arrange Chinese X posts for content growth. Use when selecting a GitHub project or preparing a short X post about one; not for developer release notes or long X Articles.
+description: Find consumer-friendly GitHub projects and prepare Chinese X posts with a verified demo-video handoff. Use for project selection and short X posts, not developer release notes or long X Articles.
 ---
 
 # GitHub to X: Research and Post Planning
 
-Find GitHub projects that everyday users would want to try, turn a verified use case into a compelling Chinese-language X post, and deliver the copy and media plan. Aim for credible reach without promising virality. Unless explicitly authorized otherwise, leave the final click on **Post** to the account owner.
+Find GitHub projects that everyday users would want to try, turn a verified use case into a compelling Chinese-language X post, and hand off text, a usable demo video, and a separate GitHub link. Aim for credible reach without promising virality. The account owner uploads the video, posts, and adds the GitHub link as a reply.
 
 ## 1. Start with the user's outcome
 
@@ -18,7 +18,7 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Inspect the repository, documentation, demo, and live entry point. Check platform requirements, signup, pricing, export restrictions, watermarks, and material limitations. When practical, complete the core task yourself and inspect the finished output. Record what you observed separately from what the maintainer says.
 - Search X for the project and similar outcomes, in Chinese and other languages when relevant. If the same footage and claim are already common, look for a more useful everyday scenario. Search is incomplete; do not claim that nobody has posted it.
 - If the post calls a project “high-star” or claims rapid growth, verify the count, date, and historical trend. Do not attribute GitHub growth to a particular X post without evidence.
-- Prefer your own real captures. Before reusing a maintainer's media, check that reuse is permitted; attribution is not a substitute for permission. Label a maintainer demo as such, never as firsthand testing. If the central benefit cannot be verified, make the uncertainty explicit and do not turn a guess into a claim.
+- Use firsthand observations when practical. Before reusing a maintainer's media, check that reuse is permitted; attribution is not a substitute for permission. Label a maintainer demo as such, never as firsthand testing. If the central benefit cannot be verified, make the uncertainty explicit and do not turn a guess into a claim.
 - Recheck time-sensitive product details and X rules against current sources. If the post involves payment, gifted access, an affiliate arrangement, or a brand relationship, verify the applicable disclosure requirements. Do not promise that links are penalty-free or that a post will receive distribution.
 
 ## 3. Write for the reader's task
@@ -26,12 +26,12 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Open with an energetic, conversational Chinese hook suited to the account's voice. Vary the wording across posts instead of repeating one catchphrase.
 - Follow with a recognizable moment of need and the result the reader can get. Lead with what they can *do*, then name the product or explain the minimum steps. Give each post one central benefit; remove feature inventories, developer jargon, and unsupported numbers.
 - Support the promise with only the proof it needs: what you tested, what the maintainer's demo shows, and any important caveat. Keep first-person observations separate from source claims. Provide a working path to try the tool.
-- Put the strongest truthful result at the start of the media. Credit borrowed material, write useful ALT text, and check character count, line breaks, media, and mobile preview in the X composer when available.
-- For this video-first short-post format, prefer a native, immediately understandable demo in the main post when its reuse basis is clear. By default, keep the GitHub URL out of the main post: end with a natural “传送门放评论区” cue and hand the owner an exact first-reply link to post manually. Follow a different link placement when the user requests one. If the available sample cannot be reused, find an authorized alternative or state the gap.
+- Choose a creator-provided, immediately understandable demo video with a clear reuse basis. Prefer an original, ready-to-upload video; give the owner its direct download URL or save the unmodified file to the user's Desktop when accessible. Verify the link or local file. Do not spend time converting, subtitling, or uploading media unless the user specifically requests it.
+- Credit borrowed media and note whether it is an author demo or a firsthand capture. Give the owner a useful ALT suggestion when the platform supports it. Keep the GitHub URL out of the main post by default: end with a natural “传送门放评论区” cue and give the owner the exact first-reply link to copy manually.
 - Use the [candidate and draft worksheet](references/run-sheet.md) to track evidence and handoff details. It is a decision aid, not copy to paste into every post.
 
 ## 4. Deliver a publication-ready draft
 
-- Provide the exact Chinese main-post copy and separate first-reply link text, including line breaks; suggested media and order; source and attribution; ALT text; why this angle is worth posting; verified facts; and relevant limitations. Label inferences as inferences.
-- If authorized to stage the draft, arrange the text, media, attribution, ALT, and links in the X composer. Stop before **Post** for the account owner's review. If staging is unavailable, hand over exact copy and a usable media list.
-- Clean up task-owned research tabs, downloads, and temporary files after the handoff. Keep the reviewable draft and intended deliverables available.
+- Provide one selected project, the exact Chinese main-post copy with line breaks, the separate GitHub first-reply text, and the video download URL or Desktop path. Add concise evidence, attribution, relevant limits, and the reason the angle may travel. Label inferences as inferences.
+- Use an external browser such as Chrome or Edge to place **only the main-post text** in the X composer when that browser is available. Never use the Codex in-app browser for this workflow. Do not upload the video, post, or fill the first reply. If external browser access is unavailable, hand over the exact copy instead of switching to the in-app browser.
+- Keep research light: use official project sources and focused X checks, reuse verified results, and stop once a strong candidate passes. Clean up task-owned research tabs and temporary files; retain the handed-off video.
