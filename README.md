@@ -13,7 +13,7 @@ This is a content research and writing workflow for creators who want more reach
 **2. Install the skill.** Paste this into a new Codex chat:
 
 ```text
-Use $skill-installer to install the skill at the root of https://github.com/Balance0014/github-to-x-posts. Select path "." and name it "github-to-x-posts".
+Use $skill-installer to install the skill at the root of https://github.com/Balance0014/github-to-x-posts. Select path "." and name it "github-to-x-posts". If direct download fails, retry with the installer's git method.
 ```
 
 Prefer the terminal? Clone the public repository into the [documented user skills directory](https://learn.chatgpt.com/docs/build-skills):
