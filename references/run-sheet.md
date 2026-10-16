@@ -9,10 +9,11 @@ Keep one short record per candidate. Put source links beside the claims they sup
 | Date, project, repository, and live entry point | |
 | The everyday user's situation and desired finished result | |
 | Category, likely audience, and why the outcome is clear in seconds | |
+| Selection reason: why this project is stronger than nearby candidates | |
+| Newness and interest: launch or meaningful update date, current stars and check date, relevant X traction or saturation | |
 | What the media shows, its source, and the basis for reuse | |
 | Firsthand trial: input, steps, output, and limits; or explicitly “not tested” | |
 | Signup, price, platform, export, and watermark facts, with sources | |
-| Current stars and date, only if the angle needs them | |
 | Similar X posts: language, date, repetition, and a distinct useful angle | |
 | Evidence gaps or reasons to pass | |
 | Decision: select, hold, or reject, with a reason | |
