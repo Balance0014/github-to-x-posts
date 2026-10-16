@@ -13,6 +13,15 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Favor projects whose output is clear within a few seconds: a finished artifact, before-and-after comparison, short video, or GIF. Weigh the path to that result, the size of the potential audience, and how easily a viewer can try it. Stars show interest; they are not a reason to pick a project on their own.
 - Compare plausible candidates on visual impact, audience breadth, ease of use, evidence, freshness on X, and timing. Ask: Why would someone stop scrolling? Why would they save or share this? Pick the strongest candidate. If none passes, say so rather than forcing a post.
 
+### Daily two-option checkpoint
+
+When the owner asks for a daily topic, first present two short, concrete options for their choice:
+
+1. **Practical:** the existing route—an everyday task someone can complete with a useful GitHub project, such as making or editing a video, image, or document.
+2. **Surprising but relatable:** an unexpected result connected to ordinary life that makes someone think “this is possible?” without depending on developer knowledge.
+
+For each option, give the project link, the plain-language user angle, and any immediately visible claim or demo limitation. Keep this first pass light. Wait for the owner's selection before doing the full verification, writing the post, or opening the X composer. If the owner already chose a direction or explicitly asks for one finished post, continue with that request instead of adding a choice step. A surprising demo must be checked against what the released project actually does; distinguish real sensing or output from a simulation or visualization.
+
 ## 2. Verify the product and the angle
 
 - Inspect the repository, documentation, demo, and live entry point. Check platform requirements, signup, pricing, export restrictions, watermarks, and material limitations. When practical, complete the core task yourself and inspect the finished output. Record what you observed separately from what the maintainer says.

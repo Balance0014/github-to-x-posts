@@ -28,14 +28,14 @@ Start a new chat after installation. If Codex does not recognize the skill, rest
 **3. Run your first search.** Copy this prompt and adjust the category if needed:
 
 ```text
-Use $github-to-x-posts to find one GitHub tool worth posting about on Chinese X today. Prioritize video creation or editing for everyday users. Verify the central benefit and material limits, then write a strong user-first Chinese post. If my external X browser is available, type only the main-post text there. Give me a direct demo-video download link or save the unmodified video to my Desktop; I will upload it and click Post. Give me the GitHub URL separately so I can paste it into the first reply.
+Use $github-to-x-posts to give me two GitHub topic options for Chinese X today: one practical tool for an everyday task, and one surprising but relatable project. Give me a short user angle and link for each, then wait for my choice. After I choose, verify what the project actually does and write a strong user-first Chinese post. If my external X browser is available, type only the main-post text there. Give me a direct demo-video download link or save the unmodified video to my Desktop; I will upload it and click Post. Give me the GitHub URL separately so I can paste it into the first reply.
 ```
 
-You should receive one recommended project and the reason it was chosen, a clear distinction between firsthand testing and source claims, the finished post, a usable video location, the exact first-reply GitHub link, and any important caveats. If no candidate passes the checks, the skill should say so instead of inventing one.
+First you should receive two concise topic options. After you choose one, you should receive the verified project, a clear distinction between firsthand testing and source claims, the finished post, a usable video location, the exact first-reply GitHub link, and any important caveats. If no candidate passes the checks, the skill should say so instead of inventing one.
 
 ## How the workflow works
 
-1. Start with a result an everyday user wants, especially in video creation, editing, design, or other visual tasks.
+1. For a daily search, offer one practical topic and one surprising but relatable topic; let the owner choose. For a direct request, follow the chosen direction.
 2. Check the project, the live product, and the path from input to finished output. Test it when practical.
 3. Search X for competing posts and look for a distinct, useful angle.
 4. Write around the reader's situation and outcome: a strong opening, one clear benefit, and only the proof the claim needs.
