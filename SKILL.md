@@ -13,14 +13,14 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Favor projects whose output is clear within a few seconds: a finished artifact, before-and-after comparison, short video, or GIF. Weigh the path to that result, the size of the potential audience, and how easily a viewer can try it. Stars show interest; they are not a reason to pick a project on their own.
 - Compare plausible candidates on visual impact, audience breadth, ease of use, evidence, freshness on X, and timing. Ask: Why would someone stop scrolling? Why would they save or share this? Pick the strongest candidate. If none passes, say so rather than forcing a post.
 
-### Daily two-option checkpoint
+### Daily two-topic checkpoint
 
-When the owner asks for a daily topic, first present two short, concrete options for their choice:
+When the owner asks for a daily run, first present two short, concrete topics for review. The goal is **two separate posts**, completed one at a time:
 
-1. **Practical:** the existing route—an everyday task someone can complete with a useful GitHub project, such as making or editing a video, image, or document.
-2. **Surprising but relatable:** an unexpected result connected to ordinary life that makes someone think “this is possible?” without depending on developer knowledge.
+1. **Practical:** start with a broad, recognizable need or pain point, then find a GitHub project that helps someone complete the task, such as making or editing a video, image, or document. When it fits the evidence, frame the story as a before-and-after, a specific free alternative, an urgent fix, a firsthand trial, a finished creation, or a feasible audience challenge. These are optional angles, not six required posts.
+2. **Surprising but relatable:** find an unexpected, eye-opening result connected to ordinary life that makes someone think “this is possible?” without depending on developer knowledge. The novelty should be understandable and visually demonstrable, not just a new technical feature.
 
-For each option, give the project link, the plain-language user angle, and any immediately visible claim or demo limitation. Keep this first pass light. Wait for the owner's selection before doing the full verification, writing the post, or opening the X composer. If the owner already chose a direction or explicitly asks for one finished post, continue with that request instead of adding a choice step. A surprising demo must be checked against what the released project actually does; distinguish real sensing or output from a simulation or visualization.
+For each topic, give the project link, the plain-language reader angle, what a demo could show, and any immediately visible claim or demo limitation. Keep this first pass light. Let the owner confirm or replace either topic and set the order. Then run the existing verification, writing, video, browser-text, and GitHub-reply handoff for the **first** topic. After the owner publishes it or asks to continue, run the same workflow for the **second** topic. Do not collapse the daily run into a choice of just one topic or prepare both X composers at once. If the owner explicitly requests only one post, honor that scope. A surprising demo must be checked against what the released project actually does; distinguish real sensing or output from a simulation or visualization.
 
 ## 2. Verify the product and the angle
 

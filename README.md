@@ -28,14 +28,14 @@ Start a new chat after installation. If Codex does not recognize the skill, rest
 **3. Run your first search.** Copy this prompt and adjust the category if needed:
 
 ```text
-Use $github-to-x-posts to give me two GitHub topic options for Chinese X today: one practical tool for an everyday task, and one surprising but relatable project. Give me a short user angle and link for each, then wait for my choice. After I choose, verify what the project actually does and write a strong user-first Chinese post. If my external X browser is available, type only the main-post text there. Give me a direct demo-video download link or save the unmodified video to my Desktop; I will upload it and click Post. Give me the GitHub URL separately so I can paste it into the first reply.
+Use $github-to-x-posts to find two GitHub topics for Chinese X today: one practical solution to an everyday need, and one surprising but relatable project. Give me a short reader angle and link for each so I can review both. Then make two separate posts, one at a time. For the first topic, verify what the project actually does and write a strong user-first Chinese post. If my external X browser is available, type only the main-post text there. Give me a direct demo-video download link or save the unmodified video to my Desktop; I will upload it, click Post, and add the GitHub URL you give me separately as the first reply. After I publish the first, repeat the same workflow for the second.
 ```
 
-First you should receive two concise topic options. After you choose one, you should receive the verified project, a clear distinction between firsthand testing and source claims, the finished post, a usable video location, the exact first-reply GitHub link, and any important caveats. If no candidate passes the checks, the skill should say so instead of inventing one.
+First you should receive two concise topics to review. Each topic then gets its own verification, finished post, usable video location, exact first-reply GitHub link, and any important caveats. The two posts are prepared and published in sequence. If no candidate passes the checks, the skill should say so instead of inventing one.
 
 ## How the workflow works
 
-1. For a daily search, offer one practical topic and one surprising but relatable topic; let the owner choose. For a direct request, follow the chosen direction.
+1. For a daily search, offer one practical topic and one surprising but relatable topic for review; complete both as separate posts, one at a time. For a direct request for one post, follow that scope.
 2. Check the project, the live product, and the path from input to finished output. Test it when practical.
 3. Search X for competing posts and look for a distinct, useful angle.
 4. Write around the reader's situation and outcome: a strong opening, one clear benefit, and only the proof the claim needs.
