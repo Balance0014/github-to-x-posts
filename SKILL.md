@@ -13,6 +13,7 @@ Find GitHub projects that everyday users would want to try, turn a verified use 
 - Favor projects whose output is clear within a few seconds: a finished artifact, before-and-after comparison, short video, or GIF. Weigh the path to that result, the size of the potential audience, and how easily a viewer can try it. Stars show interest; they are not a reason to pick a project on their own.
 - Compare plausible candidates on visual impact, audience breadth, ease of use, evidence, freshness on X, and timing. Ask: Why would someone stop scrolling? Why would they save or share this? Pick the strongest candidate. If none passes, say so rather than forcing a post.
 - For daily picks, favor projects that combine a recent launch or meaningful update with visible interest. Check the launch/update date, current star count, and relevant X posts; a high star count alone does not prove current momentum, and a new repository alone does not prove an audience. Do not claim a project is still hot on X from GitHub data alone.
+- Before shortlisting a daily topic, check the owner's recent published posts and prior handoffs in the conversation or available run records. Exclude projects already published or rejected unless the owner explicitly asks to revisit them; freshness is relative to this account as well as GitHub and X.
 
 ### Daily two-topic checkpoint
 
